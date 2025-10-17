@@ -71,11 +71,6 @@ Poniżej znajdziesz kilka widoków z aplikacji **Pupilandia** — od ekranu gł�
   <img src="screenshots/uslugi.jpg" alt="Kalendarz / Usługi" width="250"/>
   <img src="screenshots/porady.jpg" alt="Porady pielęgnacyjne" width="250"/>
   <img src="screenshots/galeria.jpg" alt="Galeria" width="250"/>
-</p>
-
-### 🐾 Ekran Admina
-
-<p align="center">
   <img src="screenshots/paneladmina.jpg" alt="Panel administratora" width="250"/>
 </p>
 
