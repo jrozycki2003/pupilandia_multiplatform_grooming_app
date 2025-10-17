@@ -65,16 +65,15 @@ Poniżej znajdziesz kilka widoków z aplikacji **Pupilandia** — od ekranu gł�
 ### 🏠 Ekrany klienta i panel administratora
 
 <p align="center">
-  <img src="screenshots/stronaglowna.jpg" alt="Ekran główny" height="180" style="margin:10px"/>
-  <img src="screenshots/rezerwacja.jpg" alt="Rezerwacja wizyty" height="180" style="margin:10px"/>
-  <img src="screenshots/uslugi.jpg" alt="Kalendarz / Usługi" height="180" style="margin:10px"/>
+  <img src="screenshots/stronaglowna.jpg" alt="Ekran główny" height="250" style="margin:10px"/>
+  <img src="screenshots/rezerwacja.jpg" alt="Rezerwacja wizyty" height="250" style="margin:10px"/>
+  <img src="screenshots/uslugi.jpg" alt="Kalendarz / Usługi" height="250" style="margin:10px"/>
 </p>
 <p align="center">
-  <img src="screenshots/porady.jpg" alt="Porady pielęgnacyjne" height="180" style="margin:10px"/>
-  <img src="screenshots/galeria.jpg" alt="Galeria" height="180" style="margin:10px"/>
-  <img src="screenshots/paneladmina.jpg" alt="Panel administratora" height="180" style="margin:10px"/>
+  <img src="screenshots/porady.jpg" alt="Porady pielęgnacyjne" height="250" style="margin:10px"/>
+  <img src="screenshots/galeria.jpg" alt="Galeria" height="250" style="margin:10px"/>
+  <img src="screenshots/paneladmina.jpg" alt="Panel administratora" height="250" style="margin:10px"/>
 </p>
-
 
 > 💡 *Wszystkie zrzuty ekranu pochodzą z działającej wersji aplikacji testowej (Flutter + Firebase).*
 
